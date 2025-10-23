@@ -11,6 +11,7 @@ ICRA 2021
 </p>
 
 ## Installation
+Oct. 22, 2025: Follow the installation instructions in `setup_env.sh` first
 
 This code has been tested with python 3.7, tensorflow 2.2, CUDA 11.1
 
